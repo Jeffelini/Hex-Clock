@@ -1,1 +1,1 @@
-# Hex-Clock gotten from youtube tutorial
+# Hex-Clock displays the colours presented by the time based of the hex-code
